@@ -52,17 +52,17 @@ Une fois pré-entraîné, le réseau se **fine-tune** efficacement sur des tâch
   * Overall Accuracy : **94.18 %**  
   * Kappa : **93.2 %**  
   * Average Accuracy : **95.3 %**  
-  ![PLACEHOLDER – figure papier](Images\10.png)
+  ![PLACEHOLDER – figure papier](Images/10.png)
 
 * **Modèle 6 bandes**  
   * Overall Accuracy : **86.57 %**  
   * Kappa : **84.3 %**  
   * Average Accuracy : **87.3 %**  
-  ![PLACEHOLDER – figure 6 bandes](Images\6.png)
+  ![PLACEHOLDER – figure 6 bandes](Images/6.png)
 
 * **Modèle 6 bandes + augmentation**  
   * Overall Accuracy : **94.34 %**  
   * Kappa : **93.3 %**  
   * Average Accuracy : **92.4 %**  
-  ![PLACEHOLDER – figure 6 bandes + aug](Images\6+a.png)
+  ![PLACEHOLDER – figure 6 bandes + aug](Images/6+a.png)
 
